@@ -90,10 +90,6 @@ tr:nth-child(even) {
   background: #D1D1D1;
 }
 
-tr:nth-child(odd) {
-  background:none;
-}
-
 thead tr:first-child th:first-child{
   border-top-left-radius: 10px;
 }
